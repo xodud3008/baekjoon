@@ -1,0 +1,19 @@
+{
+  "name": "baekjoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xodud3008/baekjoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xodud3008/baekjoon/issues"
+  },
+  "homepage": "https://github.com/xodud3008/baekjoon#readme"
+}
