@@ -13,7 +13,7 @@ rl.on('line', function (line) {
         console.log(input[0] + input[1]);
         console.log(input[0] - input[1]);
         console.log(input[0] * input[1]);
-        console.log(input[0] / input[1]);
-        console.log(input[0] % input[1]);
+        console.log(Math.floor(input[0] / input[1]));
+        console.log(Math.floor(input[0] % input[1]));
         process.exit();
     });
