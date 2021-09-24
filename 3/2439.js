@@ -28,8 +28,5 @@ rl.on('line', function (line) {
         // 안하면 계속 플러스 되서 뒤로 밀린다.
         B = '';
     }
-
-
-
     process.exit();
 });
