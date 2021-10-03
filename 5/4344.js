@@ -22,7 +22,7 @@ rl.on('line', function (line){
         let sum = 0;
         let avg = 0;
 
-        // 합계와 평균값 구하기 
+        // 합계와 평균값 구하기
         for (let j = 1; j<A.length; j++){
             sum = sum + A[j]
             avg = sum/A[0];
