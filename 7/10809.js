@@ -24,6 +24,4 @@ rl.on('line', function (line){
 
     console.log(B.join(" "));
 
-
 });
-
