@@ -26,6 +26,7 @@ rl.on('line', function (line){
         for (let j = 0; j<S.length; j++){
             answer += S.split('')[j].repeat(R)
         }
+
         console.log(answer)
     }
 
